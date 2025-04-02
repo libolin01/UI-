@@ -16,3 +16,5 @@ git checkout -- xx
 git rm xx
 git push 
 git init  git add git commit 
+git push origin master
+git remote -v
