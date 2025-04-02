@@ -2,3 +2,17 @@
 2222222
 3333333
 444444
+55555555
+git init
+git add xxx
+git commit -m "ccc"
+git status
+git diff xxx
+git log
+git reset -hard HEAD~1
+cat xxx
+git felog 
+git checkout -- xx
+git rm xx
+git push 
+git init  git add git commit 
